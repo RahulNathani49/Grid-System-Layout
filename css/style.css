@@ -1,0 +1,303 @@
+html,body {
+height:100%;
+width:100%;
+    margin:0;
+}
+
+.window{
+    height:800px;
+    width:1310px;
+    background-image: url(https://raw.githubusercontent.com/HetPatel07/mozic-grid-poject/master/images/Port_2_Background.jpg);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+position: relative;
+}
+
+.window .topnav {
+    height:160px;
+    width:1310px;
+    border-bottom: .5px solid white;
+}
+.window .topnav .leftbar{
+    width:200px;
+    height:50px;
+    position:absolute;
+    top:70px;
+    left:40px;
+}
+.window .topnav .leftbar .icon1 img{
+    float:left;
+    width:40px;
+    height:30px;
+}
+.window .topnav .leftbar .icon2 img{
+    width:50px;
+    height:35px;
+    display:inline-block;
+    margin-left: 15px;
+}
+.window .topnav .leftbar .icon3 img{
+    width:50px;
+    height:35px;
+    display:inline-block;
+    margin-left: 15px;   
+    position: relative;
+    top:-40px;
+    left:100px;
+}
+.window .topnav .imageclock{
+    position: absolute;
+    left:610px;
+    top:35px;
+}
+.window .topnav .rightbar img{
+    background-color: white;
+    width: 35px;
+    height: 35px;
+    float: right;
+    position: absolute;
+    top:70px;
+    right:40px;
+    border-radius: 10px;
+}
+.window .content{
+    height:300px;
+    width:800px;
+    margin:auto;
+    position: absolute;
+    top:0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.window .content h1{
+    text-align: center;
+    font-size: 65px;
+    color:white;
+    padding-top: 20px;
+    }
+.window .content p{
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    }
+.window .content p rk{
+  color: blue;
+}
+.window .content h1 span{
+   font-weight:bold;
+    }
+.home2{
+    
+    width:1310px;
+    height:2000px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    top:-120px;
+    position: relative;
+   
+}
+.home2 .piccontainer{
+ height:1500px;
+    width:1200px;
+      margin-left:110px;
+}
+.home2 .piccontainer .container1{
+  
+    width:350px;
+    float:left;
+   
+}
+.home2 .piccontainer .container2{
+   ]
+    width:350px;
+    display: inline-block;
+
+    margin-left:20px;
+    position: relative;
+    top:-200px;
+}
+.home2 .piccontainer .container3{
+   
+    width:350px;
+    display: inline-block;
+    
+    margin-left:20px;
+}
+.home2 .piccontainer .container1 .pic1 img{
+    height:350px;
+    width: 350px;
+    background-color: grey;
+}
+.home2 .piccontainer .container1 .pic2 img{
+    height:350px;
+    width: 350px;
+    background-color: grey;
+    margin-top:20px;
+}
+.home2 .piccontainer .container1 .pic3 img{
+    height:300px;
+    width: 350px;
+    background-color: grey;
+    margin-top:20px;
+}
+.home2 .piccontainer .container1 .pic4 img{
+    height:430px;
+    width: 350px;
+    background-color: grey;
+    margin-top:20px;
+}
+.home2 .piccontainer .container1 .pic5 img{
+    height:350px;
+    width: 350px;
+    background-color: grey;
+    margin-top:20px;
+}
+.home2 .piccontainer .container1 .pic6 img{
+    height:250px;
+    width: 350px;
+    background-color: grey;
+    margin-top:20px;
+}
+
+.home2 .piccontainer .container2 .pica img{
+    height:400px;
+    width: 350px;
+    background-color: grey;
+}
+.home2 .piccontainer .container2 .picb img{
+    height:350px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+
+.home2 .piccontainer .container2 .picc img{
+    height:250px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container2 .picd img{
+    height:300px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container2 .pice img{
+    height:350px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container2 .picf img{
+    height:300px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+
+.home2 .piccontainer .container3 .pica1 img{
+    height: 350px;
+    width: 350px;
+    background-color: grey;
+}
+.home2 .piccontainer .container3 .pica2 img{
+    height: 350px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container3 .pica3 img{
+    height: 450px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container3 .pica4 img{
+    height: 300px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container3 .pica5 img{
+    height: 300px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.home2 .piccontainer .container3 .pica6 img{
+    height: 400px;
+    width: 350px;
+    background-color: grey;
+    margin-top: 20px;
+}
+
+.footer{
+    height:300px;
+    width:1310px;
+    margin:200px 20px 20px 20px;
+    background-color:whitesmoke;
+    
+}
+.lefttag{
+    height:200px;
+    width:240px;
+    float:left;
+    margin-left: 20px;
+}
+.lefttag h1{
+    float:left;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 100px;
+    text-align: left;
+    color:dimgray;
+    }
+.lefttag h1 r{
+     color:black;
+    font-weight:bold;
+    }
+.footer .rightfooter{
+    width:1050px;
+    height:220px;
+    display: inline-block;
+
+}
+ 
+
+.footer .rightfooter .log2{
+    height:100px;
+    width:200px;
+    margin:90px 0 0 50px;
+     float:left;
+    line-height: 240px;
+    margin-left: 100px;
+}
+.footer .rightfooter .log3{
+    height:100px;
+    width:200px;
+    margin:90px 0 0 0px;
+    display: inline-block;
+      line-height: 240px;
+    
+}
+.footer .rightfooter .log4{
+    height:100px;
+    width:200px;
+    margin:90px 0 0 0px;
+    display: inline-block;
+      line-height: 240px;
+    
+}
+.footer .rightfooter .log5{
+    height:100px;
+    width:200px;
+    margin:90px 0 0 0px;
+    display: inline-block;
+      line-height: 240px;
+    margin-left: 50px;
+    
+}
