@@ -8,6 +8,7 @@ width:100%;
     height:800px;
     width:1310px;
     background-image: url(https://raw.githubusercontent.com/HetPatel07/mozic-grid-poject/master/images/Port_2_Background.jpg);
+    background-attachment:fixed;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -75,7 +76,7 @@ position: relative;
     text-align: center;
     font-size: 65px;
     color:white;
-    padding-top: 20px;
+   
     }
 .window .content p{
     text-align: center;
@@ -88,6 +89,43 @@ position: relative;
 .window .content h1 span{
    font-weight:bold;
     }
+
+.window .home .sidebar{
+    height:280px;
+    width:65px;
+    background-color: sandybrown;
+    position:fixed;
+    top:195px;
+    right:0;
+    border-left: 1px solid white;
+    border-top: 1px solid white;
+}
+.window .home .navbottom{
+    margin:auto;
+    width:900px;
+    margin-top:400px;
+    height:50px;
+}
+.window .home .navbottom li{
+   display: inline-block;
+   border: 2px solid white;
+    font-size: 22px;
+    margin-left:30px;
+    border-radius: 10px;
+    color:white;
+    padding:5px;
+    
+}
+.window .home .navbottom li:hover{
+    background-color: aqua;
+    transition: 1s;
+}
+.window .home .sidebar .bar1,.bar2,.bar3,.bar4{
+    width:50px;
+    height:69px;
+    border-left: 1px white;
+    border-bottom: 1px solid grey;
+}
 .home2{
     
     width:1310px;
